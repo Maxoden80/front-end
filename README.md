@@ -1,10 +1,10 @@
-#Привет!
+# Привет!
 
 
-##Меня зовут Денис!
+## Меня зовут Денис!
 
 
-Я обучаюсь в [htmlacademy] (https://htmlacademy.ru/) <br>
+Я обучаюсь в [htmlacademy](https://htmlacademy.ru/) <br>
 
 
 - - - 
